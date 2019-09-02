@@ -1,0 +1,12 @@
+E:\VBNET\run Sistema\Sistema.exe.config
+E:\VBNET\run Sistema\Sistema.exe
+E:\VBNET\run Sistema\Sistema.pdb
+E:\VBNET\run Sistema\Sistema.xml
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.Resources.resources
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.exe
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.xml
+E:\VBNET\repo\Sistema\Sistema\obj\Debug\Sistema.pdb
